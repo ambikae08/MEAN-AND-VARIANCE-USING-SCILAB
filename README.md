@@ -42,7 +42,7 @@ clear;
 
 // Mean Value function X=f(x)
 function z = f(x)
-    z = 3*(1-x)^3; // Marginal Probability Density Function
+    z = 4*(1-x)^3; // Marginal Probability Density Function
 endfunction
 
 a = 0;
@@ -51,7 +51,7 @@ EX = intg(a, b, f); // Mean value of X
 
 // Function Y=c(y)
 function z = c(y)
-    z = 3*(1-y)^3; // Marginal Probability Density Function
+    z = 4*(1-y)^3; // Marginal Probability Density Function
 endfunction
 
 EY = intg(a, b, c); // Mean value of Y
@@ -61,13 +61,13 @@ disp(EY, "Mean of Y =");
 
 // Variance
 function z = g(x)
-    z = 3*(1-x)^3 * x^2; // X^2 * PDF
+    z = 4*(1-x)^3 * x^2; // X^2 * PDF
 endfunction
 
 EX2 = intg(a, b, g); // E[X^2]
 
 function z = h(y)
-    z = 3*(1-y)^3 * y^2; // Y^2 * PDF
+    z = 4*(1-y)^3 * y^2; // Y^2 * PDF
 endfunction
 
 EY2 = intg(a, b, h); // E[Y^2]
@@ -86,6 +86,7 @@ n2 = max(size(x)) - 1;
 r = corr(x, y, n1);
 plot2d3('gnn', r);
 ```
+
 
 --- 
 
