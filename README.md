@@ -93,12 +93,12 @@ plot2d3('gnn', r);
 ## Output
 
 ### Mean Values
-- Mean of X = 0.3011687
-- Mean of Y = 0.25
+- Mean of X = 0.2
+- Mean of Y = 0.2
 
 ### Variance Values
-- Variance of X = 0.0092974 
-- Variance of Y = 0.0375000
+- Variance of X = 0.0266667
+- Variance of Y = 0.0266667
 
 ### Cross-Correlation Input Example
 - Reference sequence: `[1, 2, 3, 4, 5, 6, 7, 8]`  
