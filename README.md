@@ -116,7 +116,6 @@ plot2d3('gnn', r);
 
 <img width="403" height="614" alt="image" src="https://github.com/user-attachments/assets/6737784c-6644-44af-a4b2-fcf53df5e639" />
 
-
 ---
 
 ## RESULT:
