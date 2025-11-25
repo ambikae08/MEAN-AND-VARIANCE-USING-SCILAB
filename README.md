@@ -112,9 +112,9 @@ plot2d3('gnn', r);
 
 ## MANUAL CALCULATION:
 
-<img width="560" height="780" alt="image" src="https://github.com/user-attachments/assets/aa459ff0-d4ab-42e9-9a47-9143f50fae8d "/>
+<img width="358" height="532" alt="image" src="https://github.com/user-attachments/assets/0c30dd85-2d0b-43ef-9d87-734e33640019" />
 
-<img width="560" height="660" alt="image" src="https://github.com/user-attachments/assets/65ef0b65-fe6b-4eab-9e2b-3a075f7f11e9 "/>
+<img width="403" height="614" alt="image" src="https://github.com/user-attachments/assets/6737784c-6644-44af-a4b2-fcf53df5e639" />
 
 
 ---
